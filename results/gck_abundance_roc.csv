@@ -1,0 +1,5 @@
+tool,comparison,auc
+AM,Stability-LoF vs GoF,0.8132414151925078
+AM,Dynamics-LoF vs GoF,0.7142237886715167
+REVEL,Stability-LoF vs GoF,0.6393779899162555
+REVEL,Dynamics-LoF vs GoF,0.6426491084034268

@@ -1,0 +1,9 @@
+REVEL v1.3 scores
+==================
+
+Download from:
+  https://sites.google.com/site/revelgenomics/downloads
+  File: revel_with_transcript_ids (tab-separated, ~7 GB)
+
+NOTE: REVEL scores are already embedded in data/am_revel_scores_combined.csv
+      Re-fetching is not required to replicate manuscript analyses.

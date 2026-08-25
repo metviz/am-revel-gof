@@ -1,0 +1,212 @@
+[2026-03-12T00:05:34.490405] GCK DMS raw download: N=8835 (expected ~8835, status=OK)
+[2026-03-12T00:05:34.504503] GCK DMS missense filtered: N=8835 (expected ~8300, status=OK)
+[2026-03-12T00:19:39.309578] GCK Abundance raw: N=8835 (expected ~8822, OK)
+[2026-03-12T00:19:39.330917] GCK merged (activity + abundance): N=8835 (expected ~8000, OK)
+[2026-03-12T00:19:39.377891] Stability-LoF: N=2179
+[2026-03-12T00:19:39.378162] Dynamics-LoF: N=2947
+[2026-03-12T00:19:39.378362] GoF (abundance): N=662
+[2026-03-12T00:33:16.423913] De Franco raw: N=497 (LOW — check data)
+[2026-03-12T00:33:16.560154] De Franco full processed: N=497
+[2026-03-12T00:33:16.560446] De Franco novel only: N=476
+[2026-03-12T00:33:16.560682] Hopkins overlap: N=21
+[2026-03-12T00:46:42.576551] ClinVar raw: N=1117
+[2026-03-12T00:47:09.155815] ClinVar raw: N=1117
+[2026-03-12T00:47:09.314394] ClinVar LoF: N=480
+[2026-03-12T00:47:09.315041] ClinVar GoF: N=368
+[2026-03-12T00:47:09.315502] ClinVar Benign: N=269
+[2026-03-12T00:47:20.397683] ClinVar raw: N=1117
+[2026-03-12T00:47:20.550967] ClinVar LoF: N=480
+[2026-03-12T00:47:20.551669] ClinVar GoF: N=368
+[2026-03-12T00:47:20.552307] ClinVar Benign: N=269
+[2026-03-12T01:42:12.996436] ProteinGym GCK: N=263
+[2026-03-12T01:43:20.891845] ProteinGym GCK: N=263
+[2026-03-12T12:24:57.124327] GCK DMS raw download: N=312 (expected ~8835, status=WARNING)
+[2026-03-12T12:24:57.181797] GCK DMS missense filtered: N=0 (expected ~8300, status=WARNING)
+[2026-03-12T12:38:56.914212] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-03-12T12:38:57.785918] GCK DMS missense filtered: N=8309 (expected ~8300, status=OK)
+[2026-03-12T12:44:51.982994] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-03-12T12:44:52.974409] GCK DMS missense filtered: N=8309 (expected ~8300, status=OK)
+[2026-03-12T12:48:02.109744] GCK Abundance raw: N=9201 (expected ~8822, OK)
+[2026-03-12T12:50:04.428521] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-03-12T12:50:05.283822] GCK DMS missense filtered: N=8309 (expected ~8300, status=OK)
+[2026-03-12T12:53:16.015457] GCK Abundance raw: N=9201 (expected ~8822, OK)
+[2026-03-12T12:53:16.928604] GCK merged (activity + abundance): N=20307 (expected ~8000, OK)
+[2026-03-12T12:53:17.058362] Stability-LoF: N=4626
+[2026-03-12T12:53:17.058461] Dynamics-LoF: N=5885
+[2026-03-12T12:53:17.058503] GoF (abundance): N=4469
+[2026-03-12T13:01:20.382014] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-03-12T13:01:21.263073] GCK DMS missense filtered: N=8309 (expected ~8300, status=OK)
+[2026-03-12T13:04:32.391327] GCK Abundance raw: N=9201 (expected ~8822, OK)
+[2026-03-12T13:04:33.280221] GCK merged (activity + abundance): N=8204 (expected ~8000, OK)
+[2026-03-12T13:04:33.333060] Stability-LoF: N=1860
+[2026-03-12T13:04:33.333128] Dynamics-LoF: N=2202
+[2026-03-12T13:04:33.333171] GoF (abundance): N=1891
+[2026-03-12T13:06:34.294986] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-03-12T13:06:35.184209] GCK DMS missense filtered: N=8309 (expected ~8300, status=OK)
+[2026-03-12T13:09:45.381282] GCK Abundance raw: N=9201 (expected ~8822, OK)
+[2026-03-12T13:09:46.330676] GCK merged (activity + abundance): N=8204 (expected ~8000, OK)
+[2026-03-12T13:09:46.387446] Stability-LoF: N=1860
+[2026-03-12T13:09:46.387507] Dynamics-LoF: N=2202
+[2026-03-12T13:09:46.387550] GoF (abundance): N=1891
+[2026-03-12T16:23:44.191656] GCK Abundance raw: N=9201 (expected ~8822, OK)
+[2026-03-12T16:23:45.091775] GCK merged (activity + abundance): N=8204 (expected ~8000, OK)
+[2026-03-12T16:23:45.148236] Stability-LoF: N=1860
+[2026-03-12T16:23:45.148301] Dynamics-LoF: N=2202
+[2026-03-12T16:23:45.148344] GoF (abundance): N=1891
+[2026-03-12T18:07:20.429754] ClinVar raw (all genes, all types): N=9622
+[2026-03-12T18:07:20.710754] ClinVar filtered (SNV+GRCh38+quality+P/LP/B/LB): N=764
+[2026-03-12T18:07:20.710906] ClinVar with protein HGVS: N=456
+[2026-03-12T18:36:49.542322] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-03-12T18:36:50.405872] GCK DMS missense filtered: N=8309 (expected ~8300, status=OK)
+[2026-03-12T18:40:05.207296] GCK Abundance raw: N=9201 (expected ~8822, OK)
+[2026-03-12T18:40:06.091261] GCK merged (activity + abundance): N=8204 (expected ~8000, OK)
+[2026-03-12T18:40:06.143735] Stability-LoF: N=1860
+[2026-03-12T18:40:06.143802] Dynamics-LoF: N=2202
+[2026-03-12T18:40:06.143879] GoF (abundance): N=1891
+[2026-03-12T22:50:04.827207] ClinVar raw (all genes, all types): N=9622
+[2026-03-12T22:50:05.116996] ClinVar filtered (SNV+GRCh38+quality+P/LP/B/LB): N=764
+[2026-03-12T22:50:05.117254] ClinVar with protein HGVS: N=456
+[2026-03-12T22:51:50.523752] De Franco raw: N=557 (OK)
+[2026-03-12T22:52:58.840550] ClinVar analysed (LoF+GoF+Benign with AM): N=258
+[2026-03-12T22:59:13.356702] De Franco raw: N=557 (OK)
+[2026-03-12T23:02:15.648824] De Franco full processed: N=0
+[2026-03-12T23:02:15.648899] De Franco novel only: N=0
+[2026-03-12T23:02:15.648932] Hopkins overlap: N=0
+[2026-03-13T00:22:41.667777] De Franco raw: N=557 (OK)
+[2026-03-13T00:25:10.604242] De Franco full processed: N=555
+[2026-03-13T00:25:10.604309] De Franco novel only: N=555
+[2026-03-13T00:25:10.604344] Hopkins overlap: N=0
+[2026-03-13T00:29:58.655313] De Franco raw: N=557 (OK)
+[2026-03-13T00:32:23.873746] De Franco full processed: N=555
+[2026-03-13T00:32:23.873814] De Franco novel only: N=555
+[2026-03-13T00:32:23.873859] Hopkins overlap: N=0
+[2026-03-13T00:46:33.386063] ProteinGym GCK: N=149
+[2026-03-13T00:53:10.812664] ProteinGym GCK: N=149
+[2026-03-13T01:12:13.182588] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-03-13T01:12:14.098003] GCK DMS missense filtered: N=8309 (expected ~8300, status=OK)
+[2026-03-13T01:15:08.202226] GCK Abundance raw: N=9201 (expected ~8822, OK)
+[2026-03-13T01:15:09.138286] GCK merged (activity + abundance): N=8204 (expected ~8000, OK)
+[2026-03-13T01:15:09.195568] Stability-LoF: N=1860
+[2026-03-13T01:15:09.195663] Dynamics-LoF: N=2202
+[2026-03-13T01:15:09.195704] GoF (abundance): N=1891
+[2026-03-13T01:15:15.275464] De Franco raw: N=557 (OK)
+[2026-03-13T01:17:47.547345] De Franco full processed: N=555
+[2026-03-13T01:17:47.547419] De Franco novel only: N=555
+[2026-03-13T01:17:47.547454] Hopkins overlap: N=0
+[2026-03-13T01:17:53.423631] ClinVar raw (all genes, all types): N=9622
+[2026-03-13T01:17:53.603402] ClinVar filtered (SNV+GRCh38+quality+P/LP/B/LB): N=764
+[2026-03-13T01:17:53.603546] ClinVar with protein HGVS: N=456
+[2026-03-13T01:20:28.743122] ClinVar analysed (LoF+GoF+Benign with AM): N=258
+[2026-03-13T01:20:31.718133] ProteinGym GCK: N=149
+[2026-03-13T12:21:50.099341] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-03-13T12:21:51.130576] GCK DMS missense filtered: N=8309 (expected ~8300, status=OK)
+[2026-03-13T12:50:51.634081] GCK Abundance raw: N=9201 (expected ~8822, OK)
+[2026-03-13T12:50:52.513986] GCK merged (activity + abundance): N=8204 (expected ~8000, OK)
+[2026-03-13T12:50:52.564692] Stability-LoF: N=1860
+[2026-03-13T12:50:52.564752] Dynamics-LoF: N=2202
+[2026-03-13T12:50:52.564794] GoF (abundance): N=1891
+[2026-03-13T12:53:38.434662] De Franco raw: N=557 (OK)
+[2026-03-13T12:53:42.016678] ProteinGym GCK: N=149
+[2026-03-13T12:56:08.004390] De Franco full processed: N=555
+[2026-03-13T12:56:08.004464] De Franco novel only: N=555
+[2026-03-13T12:56:08.004501] Hopkins overlap: N=0
+[2026-03-13T17:04:17.281253] De Franco raw: N=557 (OK)
+[2026-03-13T17:06:47.820227] De Franco full processed: N=555
+[2026-03-13T17:06:47.820305] De Franco novel only: N=555
+[2026-03-13T17:06:47.820341] Hopkins overlap: N=0
+[2026-03-13T17:18:26.487226] ProteinGym GCK: N=149
+[2026-03-13T17:24:04.260048] ProteinGym GCK: N=149
+[2026-03-13T17:25:18.112171] De Franco raw: N=557 (OK)
+[2026-03-13T17:27:51.682206] De Franco full processed: N=555
+[2026-03-13T17:27:51.682289] De Franco novel only: N=555
+[2026-03-13T17:27:51.682327] Hopkins overlap: N=0
+[2026-03-13T18:07:59.617346] ProteinGym GCK: N=149
+[2026-03-13T18:21:43.828829] ProteinGym GCK: N=149
+[2026-03-13T19:51:29.083378] ProteinGym GCK: N=149
+[2026-03-13T21:47:18.677582] ProteinGym GCK: N=149
+[2026-03-13T22:15:16.848094] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-03-13T22:15:17.834304] GCK DMS missense filtered: N=8309 (expected ~8300, status=OK)
+[2026-03-13T22:22:48.604398] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-03-13T22:22:49.512173] GCK DMS missense filtered: N=8309 (expected ~8300, status=OK)
+[2026-03-13T22:26:46.475346] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-03-13T22:26:47.421955] GCK DMS missense filtered: N=8309 (expected ~8300, status=OK)
+[2026-03-13T22:33:47.462297] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-03-13T22:33:48.322148] GCK DMS missense filtered: N=8309 (expected ~8300, status=OK)
+[2026-03-13T22:40:24.217431] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-03-13T22:40:25.269881] GCK DMS missense filtered: N=8309 (expected ~8300, status=OK)
+[2026-03-13T22:48:41.549984] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-03-13T22:59:12.535050] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-03-13T23:30:44.837039] De Franco raw: N=557 (OK)
+[2026-03-13T23:33:12.924826] De Franco full processed: N=555
+[2026-03-13T23:33:12.924907] De Franco novel only: N=555
+[2026-03-13T23:33:12.924943] Hopkins overlap: N=0
+[2026-03-13T23:34:52.860555] De Franco raw: N=557 (OK)
+[2026-03-13T23:40:41.703644] De Franco raw: N=557 (OK)
+[2026-03-13T23:49:22.503888] De Franco raw: N=557 (OK)
+[2026-03-13T23:56:24.680869] De Franco raw: N=557 (OK)
+[2026-03-14T00:30:53.078025] De Franco raw: N=557 (OK)
+[2026-03-14T00:44:53.176910] De Franco raw: N=557 (OK)
+[2026-03-14T00:53:37.268081] De Franco raw: N=557 (OK)
+[2026-03-14T00:58:32.616497] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-03-14T01:10:39.444126] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-03-14T01:12:08.589304] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-03-14T01:21:16.234647] GCK Abundance raw: N=9201 (expected ~8822, OK)
+[2026-03-14T01:21:17.268576] GCK merged (activity + abundance): N=8204 (expected ~8000, OK)
+[2026-03-14T01:21:17.327792] Stability-LoF: N=1860
+[2026-03-14T01:21:17.327927] Dynamics-LoF: N=2202
+[2026-03-14T01:21:17.327973] GoF (abundance): N=1891
+[2026-03-14T01:28:52.134797] GCK Abundance raw: N=9201 (expected ~8822, OK)
+[2026-03-14T01:28:53.191773] GCK merged (activity + abundance): N=8204 (expected ~8000, OK)
+[2026-03-14T01:28:53.253528] Stability-LoF: N=1860
+[2026-03-14T01:28:53.253661] Dynamics-LoF: N=2202
+[2026-03-14T01:28:53.253707] GoF (abundance): N=1891
+[2026-03-14T01:39:12.708738] GCK Abundance raw: N=9201 (expected ~8822, OK)
+[2026-03-14T01:39:13.674328] GCK merged (activity + abundance): N=8204 (expected ~8000, OK)
+[2026-03-14T01:39:13.731233] Stability-LoF: N=1860
+[2026-03-14T01:39:13.731367] Dynamics-LoF: N=2202
+[2026-03-14T01:39:13.731410] GoF (abundance): N=1891
+[2026-03-14T01:45:53.282682] ClinVar raw (all genes, all types): N=9622
+[2026-03-14T01:45:53.488209] ClinVar filtered (SNV+GRCh38+quality+P/LP/B/LB): N=764
+[2026-03-14T01:45:53.488382] ClinVar with protein HGVS: N=456
+[2026-03-14T01:48:30.596869] ClinVar raw (all genes, all types): N=9622
+[2026-03-14T01:48:30.828983] ClinVar filtered (SNV+GRCh38+quality+P/LP/B/LB): N=764
+[2026-03-14T01:48:30.829143] ClinVar with protein HGVS: N=456
+[2026-03-14T01:48:34.607004] ClinVar analysed (LoF+GoF+Benign with AM): N=258
+[2026-03-14T01:51:07.332975] ClinVar raw (all genes, all types): N=9622
+[2026-03-14T01:51:07.586004] ClinVar filtered (SNV+GRCh38+quality+P/LP/B/LB): N=764
+[2026-03-14T01:51:07.586173] ClinVar with protein HGVS: N=456
+[2026-03-14T01:51:10.959272] ClinVar analysed (LoF+GoF+Benign with AM): N=258
+[2026-03-14T01:53:47.660528] ClinVar analysed (LoF+GoF+Benign with AM): N=258
+[2026-03-14T01:55:17.289740] ClinVar raw (all genes, all types): N=9622
+[2026-03-14T01:55:17.481597] ClinVar filtered (SNV+GRCh38+quality+P/LP/B/LB): N=764
+[2026-03-14T01:55:17.481757] ClinVar with protein HGVS: N=456
+[2026-03-14T01:57:32.069976] ClinVar raw (all genes, all types): N=9622
+[2026-03-14T01:57:32.305157] ClinVar filtered (SNV+GRCh38+quality+P/LP/B/LB): N=764
+[2026-03-14T01:57:32.305341] ClinVar with protein HGVS: N=456
+[2026-03-14T01:57:58.797392] ClinVar analysed (LoF+GoF+Benign with AM): N=258
+[2026-03-14T02:14:15.702427] ClinVar raw (all genes, all types): N=9622
+[2026-03-14T02:14:15.903127] ClinVar filtered (SNV+GRCh38+quality+P/LP/B/LB): N=764
+[2026-03-14T02:14:15.903299] ClinVar with protein HGVS: N=456
+[2026-03-14T02:14:15.997046] ClinVar analysed (LoF+GoF+Benign with AM): N=258
+[2026-03-14T02:23:17.215281] ClinVar raw (all genes, all types): N=9622
+[2026-03-14T02:23:17.430252] ClinVar filtered (SNV+GRCh38+quality+P/LP/B/LB): N=764
+[2026-03-14T02:23:17.430425] ClinVar with protein HGVS: N=456
+[2026-03-14T02:23:17.524460] ClinVar analysed (LoF+GoF+Benign with AM): N=258
+[2026-04-04T00:32:23.422731] ClinVar raw (all genes, all types): N=9632
+[2026-04-04T00:32:23.564326] ClinVar filtered (SNV+GRCh38+quality+P/LP/B/LB): N=769
+[2026-04-04T00:32:23.564434] ClinVar with protein HGVS: N=460
+[2026-04-04T00:32:23.579350] ClinVar analysed (LoF+GoF+Benign with AM): N=0
+[2026-04-04T01:02:11.645057] ClinVar raw (all genes, all types): N=9632
+[2026-04-04T01:02:11.784487] ClinVar filtered (SNV+GRCh38+quality+P/LP/B/LB): N=769
+[2026-04-04T01:02:11.784625] ClinVar with protein HGVS: N=460
+[2026-04-04T01:02:11.907085] ClinVar analysed (LoF+GoF+Benign with AM): N=260
+[2026-04-04T13:38:03.840502] GCK DMS raw download: N=9362 (expected ~8835, status=OK)
+[2026-04-04T13:38:11.728233] GCK Abundance raw: N=9201 (expected ~8822, OK)
+[2026-04-04T13:38:12.752056] GCK merged (activity + abundance): N=8204 (expected ~8000, OK)
+[2026-04-04T13:38:12.804879] Stability-LoF: N=1860
+[2026-04-04T13:38:12.804990] Dynamics-LoF: N=2202
+[2026-04-04T13:38:12.805035] GoF (abundance): N=1891
+[2026-04-04T13:44:04.116876] ProteinGym GCK: N=194
+[2026-04-04T14:37:20.323734] De Franco raw: N=547 (OK)
+[2026-04-04T14:38:04.801615] De Franco raw: N=547 (OK)
+[2026-04-04T14:38:30.368216] De Franco raw: N=547 (OK)

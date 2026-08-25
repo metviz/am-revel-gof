@@ -1,0 +1,11 @@
+gsutil
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+requests
+tqdm
+pyarrow
+boto3

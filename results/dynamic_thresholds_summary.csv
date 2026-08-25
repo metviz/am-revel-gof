@@ -1,0 +1,17 @@
+Method,AM Threshold,REVEL Threshold,Evidence Level
+Published (Fixed),0.564,0.644,Supporting
+Published (Fixed),0.74,0.773,Moderate
+Published (Fixed),0.89,0.932,Strong
+GMM Valley (all),0.758,0.875,Moderate
+GMM Valley (LoF only),0.74,,LoF-specific
+GMM Valley (GoF only),0.776,,GoF-specific
+KDE Valley (all),,,Moderate
+KDE Valley (LoF only),0.629,,LoF-specific
+KDE Valley (GoF only),,,GoF-specific
+Youden's J (LoF>GoF),0.832,0.914,Moderate
+Isotonic P=0.33,0.831,0.855,Supporting
+Isotonic P=0.50,0.831,0.911,Moderate
+Isotonic P=0.67,0.988,0.993,Strong
+Logistic ABCC8,0.666,0.574,Gene-specific
+Logistic GCK,0.762,0.845,Gene-specific
+Logistic KCNJ11,0.856,0.0,Gene-specific

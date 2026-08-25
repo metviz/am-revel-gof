@@ -1,0 +1,16 @@
+AlphaMissense aa-substitutions file (~3.5 GB)
+================================================
+
+Download one of:
+  A) Zenodo (recommended):
+     wget https://zenodo.org/records/8360242/files/AlphaMissense_aa_substitutions.tsv.gz
+     mv AlphaMissense_aa_substitutions.tsv.gz data/alphamissense/
+
+  B) Google Cloud Storage:
+     gsutil cp gs://dm_alphamissense/AlphaMissense_aa_substitutions.tsv.gz data/alphamissense/
+
+Then run:
+  python scripts/02_fetch_am_scores.py --lookup --method uniprot
+
+NOTE: AM scores are already embedded in data/am_revel_scores_combined.csv
+      (am_fetched=True). Re-fetching is optional for independent verification.

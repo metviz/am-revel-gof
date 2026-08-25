@@ -1,0 +1,22 @@
+GoFCards v1.0 — data/gofcards/gofcards_validation_final.csv
+=============================================================
+
+Download the full dataset directly:
+
+  Option A — All GOF mutations (Excel, ~easiest):
+    http://download.genemed.tech/upload/GainFunCards/gofcards_data_download.xlsx
+    Convert ABCC8 + KCNJ11 rows to CSV and save as:
+      data/gofcards/gofcards_validation_final.csv
+
+  Option B — Full annotations (ZIP with extended fields):
+    http://download.genemed.tech/upload/GainFunCards/gofcards_annotations_download.zip
+    Extract and filter ABCC8 + KCNJ11 rows.
+
+  Option C — Browse/export via web UI:
+    http://www.genemed.tech/gofcards/#/genemed/download
+
+Required columns in the CSV:
+  gene, protein, pscore, am_score, revel_score, phenotype, pmid
+
+Reference: Zhao W et al. GoFCards. Nucleic Acids Res. 2024.
+DOI: 10.1093/nar/gkae1079

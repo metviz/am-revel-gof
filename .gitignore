@@ -1,0 +1,12 @@
+# bulk third-party downloads (see WHAT_IS_HERE.md)
+data/**/*.tsv.gz
+data/**/variant_summary*
+data/**/*.parquet
+data/**/*.zip
+# manuscripts, figures and any generated document
+*.docx
+*.pdf
+*.pptx
+*.png
+results/submission/
+__pycache__/
